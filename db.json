@@ -1,0 +1,42 @@
+{
+  "employees": [
+    {
+      "employeeId": 100,
+      "firstName": "John",
+      "lastName": "Chen",
+      "email": "john.chen@xxxx.com",
+      "hireDate": "2008-10-16",
+      "id": "52e3"
+    },
+    {
+      "employeeId": 101,
+      "firstName": "Ameya",
+      "lastName": "Job",
+      "email": "ameya.job@xxx.com",
+      "hireDate": "2013-03-06",
+      "id": "ce09"
+    },
+    {
+      "employeeId": 102,
+      "firstName": "Pat",
+      "lastName": "Fay",
+      "email": "pat.fey@xxx.com",
+      "hireDate": "2001-03-06",
+      "id": "483a"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 2233
+    },
+    {
+      "id": "2",
+      "title": "iPhone 13",
+      "description": "An apple mobile which is nothing like apple",
+      "price": "12345"
+    }
+  ]
+}
